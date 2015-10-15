@@ -9,7 +9,8 @@
 }
 .btn-group .btn-fill {
   background: #dd4818 !important;
-  border-color: #dd4814 !important;
+  border-color: #eee !important;
+  border-width: 1px;
 }
 .btn-group .btn-fill:hover,
 .btn-group .btn-fill:focus,
