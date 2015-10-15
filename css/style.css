@@ -1,8 +1,15 @@
-a.navbar-brand, a.navbar-brand:visited {
+a.navbar-brand, a.navbar-brand:visited, .logo a, .logo a:hover {
     color: #fff;
     font-family: Ubuntu;
     font-weight: 300;
     font-size: 32px;
+    text-decoration: none;
+}
+
+.tag-line {
+  text-align: center;
+  color: #333;
+  padding-top: 25px;
 }
 
 /***************************************************************************/
@@ -689,9 +696,14 @@ h3 {
   background-size: cover;
   background-repeat: no-repeat;
 }
+.register-body {
+  padding-top: 250px;
+  padding-bottom: 250px;
+}
 .register-body h3 {
   color: #FFFFFF;
   text-align: center;
+  font-size: 50px;
 }
 .input-group {
   margin-top: 30px;

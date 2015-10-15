@@ -337,8 +337,8 @@
             navigationControl: true,   /**/
             
             // How you would like to style the map. 
-           // This is where you would paste any style found on Snazzy Maps.
-           styles: [{"stylers": [{"saturation": -100}]}],
+            // This is where you would paste any style found on Snazzy Maps.
+            styles: [{"stylers": [{"saturation": -100}]}],
 
             streetViewControl: true   /**/
           
@@ -346,7 +346,7 @@
 
         var marker = new google.maps.Marker({
             position: myLocation,
-            title:"Peggy Guggenheim Collection"});
+            title:"Juju Charmer Summit - CfgMgmtCamp"});
           
         var map = new google.maps.Map(document.getElementById("map"),
             mapOptions);
