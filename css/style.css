@@ -36,22 +36,24 @@ body {
   overflow-x: hidden !important;
 }
 * {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   text-decoration: none;
+  font-weight: 300
 }
 a {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   text-decoration: none;
+  font-weight: 300
 }
 .fix {
   overflow: hidden;
 }
 p {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-weight: 300;
   font-size: 15px;
   line-height: 28px;
-  color: #60626D;
+  color: #AEA79F;
 }
 h1,
 h2,
@@ -73,7 +75,7 @@ h2 {
   line-height: 52px;
 }
 h3 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 25px;
   font-weight: 300;
   line-height: 42px;
@@ -147,7 +149,6 @@ h3 {
 .sponsors-logo {
   margin-bottom: 50px;
 }
-.btn-group,
 .our-featured-speaker-right p,
 .footer-body,
 .about-our-event-left p,
@@ -440,7 +441,7 @@ h3 {
   margin-top: -12px;
 }
 .about-our-event-left p {
-  color: #b3b3b3;
+  color: #AEA79F;
 }
 .about-our-event-right {
   overflow: hidden;
@@ -500,14 +501,14 @@ h3 {
   margin-top: -12px;
 }
 .our-featured-speaker-right p {
-  color: #b3b3b3;
+  color: #AEA79F;
 }
 .our-featured-speaker-right .btn-group .btn-fill {
   color: #FFFFFF;
 }
 .our-featured-speaker-right .btn-group .btn-border {
-  border-color: #b3b3b3;
-  color: #b3b3b3;
+  border-color: #AEA79F;
+  color: #AEA79F;
 }
 /*
  ********************************

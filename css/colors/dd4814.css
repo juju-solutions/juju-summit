@@ -16,8 +16,9 @@
 .btn-group .btn-fill:focus,
 .btn-group .btn-fill:active,
 .btn-group .btn-fill.active {
-  background: #e30000 !important;
-  border-color: #e30000 !important;
+  background: #fff !important;
+  border-color: #eee !important;
+  color: #dd4814 !important;
 }
 .btn-group .btn-border:hover,
 .btn-group .btn-border:focus,
