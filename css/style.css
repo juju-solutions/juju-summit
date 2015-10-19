@@ -1,5 +1,5 @@
 a.navbar-brand, a.navbar-brand:visited, .logo a, .logo a:hover {
-    color: #fff;
+    color: #fff !important;
     font-family: Ubuntu;
     font-weight: 300;
     font-size: 32px;
