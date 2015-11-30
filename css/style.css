@@ -12,6 +12,22 @@ a.navbar-brand, a.navbar-brand:visited, .logo a, .logo a:hover {
   padding-top: 25px;
 }
 
+.register-note {
+  text-align: center;
+  background-color: #fff;
+  color: #333;
+  border-radius: 5px;
+}
+
+a {
+  color: #dd4814;
+}
+
+a:hover {
+  color: #dd4814;
+  text-decoration: underline;
+}
+
 /***************************************************************************/
 /* VARIABLES */
 /***************************************************************************/
