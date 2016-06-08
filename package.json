@@ -1,0 +1,22 @@
+{
+  "name": "juju-charmers-summit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faooful/juju-charmers-summit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faooful/juju-charmers-summit/issues"
+  },
+  "homepage": "https://github.com/faooful/juju-charmers-summit#readme",
+  "dependencies": {
+    "vanilla-framework": "0.0.77"
+  }
+}

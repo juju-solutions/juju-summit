@@ -1,0 +1,36 @@
+#clockdiv {
+  // padding-bottom: 40px;
+}
+
+.figure-container {
+  padding-right: 10px;
+  display: inline-block;
+  text-align: center;
+}
+
+.smalltext {
+  padding-bottom: 10px;
+  font-size: 16px;
+  opacity: .6;
+}
+
+.days, .hours, .minutes, .seconds {
+  font-size: 45px;
+}
+
+.colon {
+  font-size: 45px;
+  opacity: .6;
+}
+
+@media only screen and (max-width: 767px) {
+  .colon {
+    font-size: 25px;
+  }
+  .days, .hours, .minutes, .seconds {
+    font-size: 25px;
+  }
+  .smalltext {
+    font-size: 13px;
+  }
+}
