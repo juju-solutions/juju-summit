@@ -2604,8 +2604,6 @@ a {
   text-decoration: underline;
   color: #333; }
 
-li {
-  display: inline; }
   li img {
     height: 30px;
     width: 30px; }
@@ -2643,7 +2641,8 @@ li {
   z-index: 2; }
 
 .social-list__item {
-  padding-left: 5px; }
+  padding-left: 5px;
+  display: inline; }
 
 @media only screen and (max-width: 767px) {
   iframe {
