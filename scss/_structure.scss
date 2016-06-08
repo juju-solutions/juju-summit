@@ -1,0 +1,28 @@
+.wrapper {
+  overflow: hidden;
+}
+
+.row-hero {
+  height: 700px;
+  margin-top: 0;
+  padding: 200px 20px 0 20px;
+  color: white;
+  background: url(../imgs/header-bg.png)
+}
+
+.row {
+  padding: 80px 20px;
+}
+
+.twleve-col {
+  z-index: 2 !important;
+}
+
+.white-row {
+  height: 180px;
+  width: 100%;
+  margin-top: -180px;
+  position: absolute;
+  background: white;
+  z-index: 1;
+}
