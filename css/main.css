@@ -2540,7 +2540,7 @@ audio:not([controls]) {
   margin-top: 0;
   padding: 200px 20px 0 20px;
   color: white;
-  background: url(../imgs/header-bg.png); }
+  background: url(../imgs/header-bg.crush.png); }
 
 .row {
   padding: 80px 20px; }
